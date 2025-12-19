@@ -2,6 +2,7 @@ import Header from "../Componant/Header"
 import Hero from "../Componant/Hero"
 import Products from "../Componant/Products"
 import SecndSection from "../Componant/SecndSection"
+import TherdSection from "../Componant/TherdSection"
 export default function Home() {
     return (
         <div className=" w-full flex justify-center items-center overflow-auto ">
@@ -10,6 +11,7 @@ export default function Home() {
                 <Hero />
                 <Products />
                 <SecndSection />
+                <TherdSection />
             </div>
         </div>
     )
