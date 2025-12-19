@@ -2,7 +2,7 @@ export default function Hero() {
     return (
         <div className=" w-full  bg-white lg:w-full lg:h[90-dvh] lg:bg-white  ">
             <div className=" w-full  rounded-b-2xl lg:w-full shadow-2xl shadow-gray-500 h-[50dvh] lg:h-[90dvh] bg-hero bg-cover bg-center
-          bg-[url('src/assets/vecteezy_four-pink-and-white-peonies-on-a-green-background_47188679.jpeg')]
+          bg-[url('src/assets/vecteezy_ai-generated-a-bottle-of-perfume-with-flowers-on-a-pink_35720062.jpg')]
              animate__animated animate__fadeInDown animate__slower">
 
                 <div className=" pt-[60px] pl-2 lg:p-10  flex flex-col  ">
