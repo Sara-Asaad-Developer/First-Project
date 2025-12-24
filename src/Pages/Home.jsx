@@ -1,3 +1,4 @@
+import Footer from "../Componant/Footer"
 import Header from "../Componant/Header"
 import Hero from "../Componant/Hero"
 import Products from "../Componant/Products"
@@ -12,6 +13,7 @@ export default function Home() {
                 <Products />
                 <SecndSection />
                 <TherdSection />
+                <Footer />
             </div>
         </div>
     )
