@@ -9,7 +9,7 @@ export default function Hero() {
                     <h1 className=" lg:p-10  text-black lg:text-white/70 lg:items-start 
                     text-2xl lg:text-8xl
                      font-bold font-sans
-                      animate__animated animate__fadeInDown animate__slower ">Hayla</h1>
+                      animate__animated animate__fadeInDown animate__slower ">SARA</h1>
 
                     <p className=" text-[15px] font-bold  text-black  lg:text-white lg:text-3xl animate__animated animate__fadeInBottomLeft  animate__slower ">
                         A Fragrance That Defines Your Presenc
