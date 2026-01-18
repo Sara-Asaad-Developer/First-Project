@@ -18,9 +18,9 @@ export default function App() {
                         <Route index element={<Home />} />
                         <Route path="Women" element={<Women />} />
                         <Route path="Men" element={<Men />} />
-                        <Route path="Customer" element={<Customer />} />
-                        <Route path="Discounts" element={<Discounts />} />
                     </Route>
+                    <Route path="Customer" element={<Customer />} />
+                    <Route path="Discounts" element={<Discounts />} />
                     {/* <Route path="/women/:prodectNane" elemet={<Prodect />} /> */}
                 </Routes>
                 <Footer />

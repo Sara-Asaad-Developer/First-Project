@@ -8,7 +8,9 @@ export default function Products() {
             <div className=" grid  grid-cols-1  lg:grid-cols-3 lg:gap-20  ">
                 <div className=" animate__animated animate__fadeInUp animate__slower text-black pt-15">
                     <h1>Why Choose Us?</h1>
-                    <p> From timeless classics to modern olfactory masterpieces, our curated selection of perfumes brings elegance, depth, and emotion to every moment. Explore our exclusive collections for men, women, and unisex.</p> </div>
+                    <p> From timeless classics to modern olfactory masterpieces, our curated selection of perfumes brings elegance,
+                        depth, and emotion to every moment. Explore our exclusive collections for men, women, and unisex.</p>
+                </div>
                 <img className=" rounded-[80px] w-[500px] h-[50dvh] shadow-2xl shadow-gray-500 object-cover " src={prfi} alt="" />
                 <div className=" animate__animated animate__fadeInRight animate__slower text-black pt-20">
                     <p>100% Authentic Products</p>
